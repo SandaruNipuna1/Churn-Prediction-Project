@@ -1,0 +1,17 @@
+Measure,Higher-risk quartile,Lower-risk 75%,Statistic
+Profile definition,Top 25% predicted churn probability; cutoff = 0.7096,,
+Group size,353,1056,
+Observed churn rate,0.6260623229461756,0.14488636363636365,
+Contract = Month-to-month,0.9943342776203966,0.3996212121212121,Share
+Contract = One year,0.0056657223796034,0.2821969696969697,Share
+Contract = Two year,0.0,0.3181818181818182,Share
+InternetService = DSL,0.1274787535410765,0.41571969696969696,Share
+InternetService = Fiber optic,0.8725212464589235,0.28882575757575757,Share
+InternetService = No,0.0,0.29545454545454547,Share
+PaymentMethod = Bank transfer (automatic),0.08498583569405099,0.2556818181818182,Share
+PaymentMethod = Credit card (automatic),0.10764872521246459,0.2566287878787879,Share
+PaymentMethod = Electronic check,0.7025495750708215,0.21401515151515152,Share
+PaymentMethod = Mailed check,0.1048158640226629,0.27367424242424243,Share
+Mean tenure,12.093484419263456,38.541666666666664,Mean
+Mean MonthlyCharges,79.62422096317282,58.89569128787878,Mean
+Mean TotalCharges,1062.5834277620397,2582.0313920454546,Mean

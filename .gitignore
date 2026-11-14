@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.log
+
+# Personal learning journeys
+report/Personal Journies/

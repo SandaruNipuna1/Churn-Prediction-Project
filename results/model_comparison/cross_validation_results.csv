@@ -1,0 +1,5 @@
+Model,CV Accuracy,CV Precision,CV Recall,CV F1,CV ROC-AUC
+Logistic Regression,0.7485,0.5169,0.8013,0.6283,0.846
+Decision Tree,0.7343,0.5003,0.7906,0.6125,0.8184
+Random Forest,0.7861,0.6288,0.4742,0.5404,0.8206
+SVM,0.7506,0.52,0.7813,0.6242,0.827
